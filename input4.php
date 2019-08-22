@@ -8,7 +8,7 @@
 </head>
 <body>
     <form method="GET" action="input3.php" name="input">
-    Nama Anda = <input type="text" name="nama"><br>
+    Nama Anda : <input type="text" name="nama"><br>
     <input type="submit" name="input" value="input">
     </form>
 </body>
