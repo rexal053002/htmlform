@@ -10,5 +10,5 @@
     $a = 10;
     $b = 50;
     echo "<b>Bilangan Ganjil dari $a sampai $b : </b><br>";
-    cetak_ganjil(1,150);
+    cetak_ganjil(1,150);// bisa juga > cetak_ganjil($a,$b);
 ?>
