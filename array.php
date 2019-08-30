@@ -42,5 +42,3 @@
     </fieldset>
 </body>
 </html>
-
-belum beres
